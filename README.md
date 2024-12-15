@@ -8,12 +8,13 @@ Este repositorio contiene la documentación relacionada con el proyecto **ViCo**
 
 La documentación está organizada de la siguiente manera:
 
-[Documentación PHP](docs/php_documentation.md)
-[Documentación JS](docs/js_documentation.md)
-[Documentación CSS](docs/css_documentation.md)
+- **`docs/php_documentation.md`**: Documentación relacionada con el código PHP del proyecto.
+- **`docs/js_documentation.md`**: Documentación sobre los scripts JavaScript utilizados en el proyecto.
+- **`docs/css_documentation.md`**: Documentación de los estilos CSS aplicados en el proyecto.
 
-Adjunto url del repositorio:
-https://github.com/MaySG/DocumentacionViCo
+> **Adjunto URL del repositorio:**  
+> [https://github.com/MaySG/DocumentacionViCo](https://github.com/MaySG/DocumentacionViCo)
+
 
 ## Cómo Usar Esta Documentación
 
