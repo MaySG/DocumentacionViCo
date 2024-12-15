@@ -65,7 +65,7 @@ const steps = result.routes[0].legs[0].steps;
   - Parámetros: coordinates
   - Código:
   ```js
-const apiKey = "AIzaSyCD8yk8cj22G_KJfes6iC_G2U6zTmXQWjY"; // Tu API Key
+const apiKey = ""; // Tu API Key
   const lat = coordinates.lat();
   const lng = coordinates.lng();
   const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat
